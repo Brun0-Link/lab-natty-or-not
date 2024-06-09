@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar sobre o conteúdo e estruturar tópicos divers
 ## 🚀 Resultados
 Este e-book apresenta tópicos fascinantes sobre a origem e evolução da vida na Terra, um conteúdo para atender a curiosidade de crianças e jovens interessados no assunto.
 
-Link para o e-book:
+Link para o e-book: https://github.com/Brun0-Link/lab-natty-or-not/blob/main/Ebook%20gerado%20por%20IA.pdf
 
 ## 💭 Reflexão
 Esta experiência me introduziu a sensação de produzir conteúdo educacional, o qual demonstra possuir valor real de aprendizado.
